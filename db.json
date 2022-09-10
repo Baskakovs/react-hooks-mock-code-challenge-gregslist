@@ -4,7 +4,8 @@
       "id": 1,
       "description": "heater",
       "image": "./images/heater.jpg",
-      "location": "BROOKLYN"
+      "location": "BROOKLYN",
+      "price": "20"
     },
     {
       "id": 2,
